@@ -359,7 +359,7 @@ $("#switchmore").on("click", function () {
   } else {
     $("#container").attr("class", "container");
     $("#change").html("Hello&nbsp;World&nbsp;!");
-    $("#change1").html("一个不正经的Up");
+    $("#change1").html("想要成为战双高手");
   }
 });
 
@@ -408,7 +408,7 @@ window.addEventListener("load", function () {
       //移动端隐藏更多页面
       $("#container").attr("class", "container");
       $("#change").html("Hello&nbsp;World&nbsp;!");
-      $("#change1").html("一个不正经的Up");
+      $("#change1").html("想要成为战双高手");
 
       //移动端隐藏弹窗页面
       $("#box").css("display", "none");
